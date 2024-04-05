@@ -22,7 +22,7 @@ The official pytorch implementation of the paper **[GhostingNet: a Novel Approac
 ### Results Comparison
 
 <p align="center">
-  <img src="https://github.com/YT3DVision/GhostingNet.utils/compare_results.jpg" style="width:80%" />
+  <img src="https://github.com/YT3DVision/GhostingNet/tree/main/utils/compare_results.jpg" style="width:80%" />
 </p>
 
 ### Installation
