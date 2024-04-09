@@ -1,6 +1,6 @@
 ## GhostingNet: a Novel Approach for Glass Surface Detection with Ghosting Cues
 
-The official pytorch implementation of the paper **[GhostingNet: a Novel Approach for Glass Surface Detection with Ghosting Cues (TPAMI2024)]()**
+The official pytorch implementation of the paper **[GhostingNet: a Novel Approach for Glass Surface Detection with Ghosting Cues]()**
 
 #### Tao Yan, Jiahui Gao, Ke Xu, Helong Li, Xiangjie Zhu, Hao Huang, Benjamin Wah, Rynson W.H. Lau
 
