@@ -12,13 +12,13 @@
 | **GSDNet**                        |       ✔        |       ✖        | ✔ (single refletion)  | dialation conv + reflection detection |  different receptive fileds + prior cues   |
 | <font color='red'>**Ours**</font> |       ✔        |       ✖        | ✔ (double reflection) |      double reflection detection      |            prior intrinsic cues            |
 
--->
+
 ### Results Comparison
 
 <p align="center">
   <img src="https://github.com/YT3DVision/GhostingNet/blob/main/utils/compare_results.jpg" style="width:100%" />
 </p>
-
+-->
 
 ### Code
 
