@@ -1,4 +1,4 @@
-
+<!--
 ### Metrics Comparison
 
 | *Metric*                          | ***use mask*** | *use boundary* |   *use extra clues*   |             *main method*             |                *main idea*                 |
@@ -12,6 +12,7 @@
 | **GSDNet**                        |       ✔        |       ✖        | ✔ (single refletion)  | dialation conv + reflection detection |  different receptive fileds + prior cues   |
 | <font color='red'>**Ours**</font> |       ✔        |       ✖        | ✔ (double reflection) |      double reflection detection      |            prior intrinsic cues            |
 
+-->
 ### Results Comparison
 
 <p align="center">
