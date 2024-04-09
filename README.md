@@ -1,10 +1,3 @@
-%## GhostingNet: a Novel Approach for Glass Surface Detection with Ghosting Cues
-
-%The official pytorch implementation of the paper **[GhostingNet: a Novel Approach for Glass Surface Detection with Ghosting Cues]()**
-
-%#### Tao Yan, Jiahui Gao, Ke Xu, Helong Li, Xiangjie Zhu, Hao Huang, Benjamin Wah, Rynson W.H. Lau
-
-
 
 ### Metrics Comparison
 
@@ -25,9 +18,6 @@
   <img src="https://github.com/YT3DVision/GhostingNet/blob/main/utils/compare_results.jpg" style="width:100%" />
 </p>
 
-### Installation
-
-Deformable Convolution Network(DCN) is required in this paper, if you want to run the project on Windows platform please refer to [this](./utils/_ext_solver.md).
 
 ### Code
 
