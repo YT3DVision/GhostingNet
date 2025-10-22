@@ -74,8 +74,8 @@ Here are some useful demos for you.
 
 | *Content*                   | *Links*                                                      |
 | --------------------------- | ------------------------------------------------------------ |
-| Dataset (GEGD2)             | [gdrive](https://drive.google.com/file/d/1WDkK7DCZNuZKBMPT1lfEhySIUa0fYxW-/view?usp=sharing)\|[Baidu Disk](https://pan.baidu.com/s/1T9AsdsY_J_yhSQITb36q3w?pwd=1234) |
-| Model (pretrained on GEGD2) | [gdrive](https://drive.google.com/file/d/13Mkq5nsAN1idaFPGnZVk-3CyiQPgGGRH/view?usp=sharing)\|[Baidu Disk](https://pan.baidu.com/s/1hMq_77qnp2c8FOkbUeKP_A?pwd=1234) |
+| Dataset (GEGD2)             | [gdrive](https://drive.google.com/file/d/1WDkK7DCZNuZKBMPT1lfEhySIUa0fYxW-/view?usp=sharing)\|[Baidu Disk](https://pan.baidu.com/s/1T9AsdsY_J_yhSQITb36q3w?pwd=1234)\|[MEGA Disk](https://mega.nz/file/0mpCiZJb#WwLwVKkz0uYvh92WyzWT9Q9K1MCPPQi018mHA9RXSQo) |
+| Model (pretrained on GEGD2) | [gdrive](https://drive.google.com/file/d/13Mkq5nsAN1idaFPGnZVk-3CyiQPgGGRH/view?usp=sharing)\|[Baidu Disk](https://pan.baidu.com/s/1hMq_77qnp2c8FOkbUeKP_A?pwd=1234)\|[MEGA Disk](https://mega.nz/file/9j4jgQ7A#22Yvp2JNnepcajWR_x2WUpRWMqO-AAOPlzk1tUiUomQ) |
 
 ### Contact
 
