@@ -33,7 +33,9 @@
 
 ### Installation
 
-The implementation of DCN based on [DCNv2](https://github.com/JBlackRainZ/DCNv2), and there are two version of DCNv2 on Linux and Windows platform respectively. If you have any problem of installing DCNv2 on Windows platform, please refer to [here](https://github.com/YT3DVision/GhostingNet/blob/main/utils/_ext_solver.md).
+The implementation of DCN based on [DCNv2](https://github.com/JBlackRainZ/DCNv2), and there are two version of DCNv2 on Linux and Windows platform respectively.
+If you have any problem of installing DCNv2 on Windows platform, please refer to [here](https://github.com/YT3DVision/GhostingNet/blob/main/utils/_ext_solver.md).
+We also provide packages that can be compiled for Windows and higher versions of PyTorch in ./DCN_ours.
 
 We provide a reference environment configuration as follows:
 
